@@ -18,3 +18,4 @@ def start_game(game_task, rules):
             return
         print("Correct!")
     print(f"Congratulations, {name}!")
+
