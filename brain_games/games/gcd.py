@@ -1,6 +1,7 @@
-import random 
+import random
 
-def gcd(first,second):
+
+def gcd(first, second):
     while second != 0:
         first, second = second, first % second
     return first 

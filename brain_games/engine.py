@@ -1,6 +1,7 @@
-import prompt 
+import prompt
 
 round_count = 3
+
 
 def start_game(game_task, rules):
     name = prompt.string('May I have your name? ')
