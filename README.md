@@ -3,8 +3,14 @@
 
 [![Quality gate](https://sonarcloud.io/api/project_badges/quality_gate?project=elzaelsa_qa-auto-engineer-python-project-49)](https://sonarcloud.io/summary/new_code?id=elzaelsa_qa-auto-engineer-python-project-49)
 
-[![asciicast](https://asciinema.org/a/zM6w6yc4Mf6s08Ak)]
+## brain_even 
+[![asciicast](https://asciinema.org/a/zM6w6yc4Mf6s08Ak.svg)](https://asciinema.org/a/zM6w6yc4Mf6s08Ak)
 
-[![asciicast](https://asciinema.org/a/9MO9i6OJL605HTBj)]
+## brain_calc
+[![asciicast](https://asciinema.org/a/9MO9i6OJL605HTBj.svg)](https://asciinema.org/a/9MO9i6OJL605HTBj)
 
-[![asciicast](https://asciinema.org/a/HiKIBlWLivIDPFcN)]
+## brain_gcd
+[![asciicast](https://asciinema.org/a/HiKIBlWLivIDPFcN.svg)](https://asciinema.org/a/HiKIBlWLivIDPFcN)
+
+## brain_progression
+[![asciicast](https://asciinema.org/a/KGS3AHQXGAqw9lN9.svg)](https://asciinema.org/a/KGS3AHQXGAqw9lN9)
